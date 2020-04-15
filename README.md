@@ -1,2 +1,2 @@
-# Relics-Of-The-Past-Web
+# Relics-Of-The-Past
 Temp website
